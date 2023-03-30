@@ -10,11 +10,12 @@
 
 ---
 
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it.
+This application demonstrates PWA web applications. This application uses web pack plugins and allowes a local install.
 
 ### Screenshot
 
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text]()![screenshotjate](https://user-images.githubusercontent.com/116799866/228928219-24629f3b-7ec1-4d84-8570-50dddcb420b7.jpg)
+
 
 ## Technologies
 
@@ -48,4 +49,4 @@ Please feel free to collaborate on, or improve this repository. You can contact 
 
 ---
 
-Heorku link to deployed action
+Heorku link to deployed action >>> https://pwd-challenge-19.herokuapp.com/
