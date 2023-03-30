@@ -4,7 +4,7 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+5. [Link to Application](#link-to-application)
 
 ### General Info
 
@@ -22,15 +22,11 @@ Write down general information about your project. It is a good idea to always p
 
 A list of technologies used within the project:
 
-- [Technology name](https://example.com): Version 12.3
-- [Technology name](https://example.com): Version 2.34
-- [Library name](https://example.com): Version 1234
-
 ## Installation
 
 ---
 
-A little intro about the installation.
+Please click the link to the deployed application and click the install button
 
 ```
 $ git clone https://example.com
@@ -39,36 +35,17 @@ $ npm install
 $ npm start
 ```
 
-Side information: To use the application in a special environment use `lorem ipsum` to start
-
 ## Collaboration
 
 ---
 
-Give instructions on how to collaborate with your project.
+Please feel free to collaborate on, or improve this repository. You can contact me using the below info.
 
-> Maybe you want to write a quote in this part.
-> Should it encompass several lines?
-> This is how you do it.
+> taylorindia92@gmail.com
+> indiataylor1 (GitHub)
 
-## FAQs
+## Link to Application
 
 ---
 
-A list of frequently asked questions
-
-1. **This is a question in bold**
-   Answer to the first question with _italic words_.
-2. **Second question in bold**
-   To answer this question, we use an unordered list:
-
-- First point
-- Second Point
-- Third point
-
-3. **Third question in bold**
-   Answer to the third question with _italic words_.
-4. **Fourth question in bold**
-   | Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-   |:--------------|:-------------:|--------------:|
-   | text-align left | text-align center | text-align right |
+Heorku link to deployed action
